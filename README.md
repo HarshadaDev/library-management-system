@@ -1,1 +1,1 @@
-A RESTful Library Management System API built with Node.js, Express.js, and MySQL for managing books, authors, members, book issue/return operations, search, filtering, pagination, and library reports.
+
